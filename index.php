@@ -9,6 +9,6 @@
 <body>
     <button id="btn_guardar">Guardar Pokémon</button>
     <div id="resultado"></div>
-    <script src="http://localhost/prograWB/Pokemon/public/js/script.js"></script>
+    <script src="./public/JS/main.js"></script>
 </body>
 </html>
